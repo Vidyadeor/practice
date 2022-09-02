@@ -33,3 +33,4 @@ print(week_temp["Thursday"])
 discount_dict= {'Alex': 16, 'Bob': 26, 'Carol': 83, 'Dave': 21, 'Flow': 38, 'Katie': 47, 'Nate': 89}
 customer = {customer:discount for (customer, discount) in discount_dict.items() if discount<30}
 print(customer)
+#comment
